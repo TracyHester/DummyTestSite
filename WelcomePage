@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Environmental Appellate Advocacy Course</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Environmental Appellate Advocacy Course</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="roster.html">Class Roster</a></li>
+                <li><a href="upload.html">Upload Amicus Brief</a></li>
+                <li><a href="info.html">Class Info</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to Our Course Website!</h2>
+            <p>This is the main page for the Environmental Appellate Advocacy course.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Environmental Appellate Advocacy Course</p>
+    </footer>
+</body>
+</html>
